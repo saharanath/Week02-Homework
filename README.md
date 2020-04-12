@@ -4,6 +4,8 @@ Portfolio Page
 A mobile responsive portfolio created using Bootstrap CSS Framework.
 
 Includes:
-  - A navbar used to access a linked contact and portfolio page
-  - Repsonive layout and images,
+  - A consistent navbar used to access a linked contact and portfolio page
+  - Repsonive layout and images
+  - Utilization of Bootstrap components and the grid system.
+  -
 
